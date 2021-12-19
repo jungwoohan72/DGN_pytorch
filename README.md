@@ -10,4 +10,4 @@ Term project for IE549 course. Implementation of DGN on SMAC environment.
 
 <img src="https://user-images.githubusercontent.com/45442859/146665971-d5d3c945-2cf8-42f0-bb44-95d0085bbff0.gif" width="400" height="250"/>
 
-![learning_curve](https://user-images.githubusercontent.com/45442859/146666044-ffa0be53-e0e2-4d46-8b5c-eba44544ecae.png)
+![learning_curve](https://user-images.githubusercontent.com/45442859/146666073-b2a8cdfc-915d-49c6-994a-8cea8ff1914e.jpg)
