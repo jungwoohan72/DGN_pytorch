@@ -4,7 +4,7 @@ This is forked from https://github.com/jiechuanjiang/pytorch_DGN
 
 Term project for IE549 course. Implementation of DGN on SMAC environment.
 
-<img src="https://user-images.githubusercontent.com/45442859/146665952-128986bd-e280-411c-a457-e43d2f05ebc2.gif" width="600" height="250"/>
+<img src="https://user-images.githubusercontent.com/45442859/146665952-128986bd-e280-411c-a457-e43d2f05ebc2.gif" width="400" height="250"/>
 
 ![25marine](https://user-images.githubusercontent.com/45442859/146665954-8d1a250a-36ed-483a-8b10-f9447d53cd17.gif)
 ![1c3s5z](https://user-images.githubusercontent.com/45442859/146665959-e2f99b6b-3c8a-441f-bde0-9a1b107af364.gif)
